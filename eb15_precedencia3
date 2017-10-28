@@ -1,0 +1,22 @@
+// operador_precedencia2.cpp
+// Este programa muestra la precedencia en operadores
+// 2017, Por http://about.me/carlosgbr
+// Versión 1
+// Compilado en https://www.tutorialspoint.com/compile_cpp_online.php
+
+#include <iostream>
+#include <math.h>   //Nos permite utilizar la función pow()
+
+using namespace std;
+
+int main()
+{
+    float resultado = 0;
+    
+    //La expresión original es 3^2-(-3^2)= 0
+    //Para elevar una base a una potencia utilizamos la función pow(base, potencia) de la librería math.h
+    resultado = pow(3,2)-(-pow(3,2));
+    cout << "Y el resultado al evaluar 3^2-(-3^2) en C++ es..." << resultado << endl; 
+   
+    return 0;
+}
