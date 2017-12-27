@@ -1,6 +1,8 @@
 // eb27_while03.cpp
-// Uso de while02
-// Este programa ilustra el uso del bucle While realizando la suma de enteros
+// Uso de while03
+// Variación del programa de cálculo de índice de masa corporal, utilizando
+// while se habilita la opción de ejecuciones múltiples hasta que el usuario 
+// pulsa la tecla 'n' o 'N'
 // 2017, Por http://about.me/carlosgbr
 // Versión 1
 // Compilado en https://www.onlinegdb.com/online_c++_compiler
