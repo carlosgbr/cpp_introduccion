@@ -1,4 +1,4 @@
-// eb25_while02.cpp
+// eb26_while02.cpp
 // Uso de while02
 // Este programa ilustra el uso del bucle While realizando la suma de enteros
 // 2017, Por http://about.me/carlosgbr
