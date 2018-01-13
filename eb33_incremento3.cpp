@@ -1,4 +1,4 @@
-// eb32_incremento3.cpp
+// eb33_incremento3.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se utiliza un contador y un acumulador para registra el promedio de los valores introducidos
