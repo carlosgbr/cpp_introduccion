@@ -47,4 +47,4 @@ int main()
     //   cout << k << " - " << sumapares << endl;  
 
     return 0;
-}eb36_for01.cpp
+}
