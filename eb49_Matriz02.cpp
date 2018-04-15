@@ -1,4 +1,4 @@
-// eb49_Matriz02.cpp
+// eb48_Matriz02.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el uso de Arreglos Bidimensionales o Matrices
@@ -21,13 +21,15 @@ int main()
     const int alto =10;
     const int ancho = 10; 
     const int oportunidades = 3;
+    const char vacio = 'O';
+    const char barco = 'B';
+    const char hundido = '*';
+
    
     char Tablero[alto][ancho];
-    char vacio , barco;
+    //char vacio , barco;
     int colBarco, filBarco; 
     
-    vacio = 'O';
-    barco = 'B';
     
     //Inicializamos el arreglo con posiciones vacías
     
@@ -88,7 +90,7 @@ int main()
         
         if (Tablero[colBarco][filBarco] == barco) {
             cout  << endl<< "¡¡¡Le diste, barco hundido!!!" << endl << endl << endl;
-            Tablero[colBarco][filBarco] = '*';
+            Tablero[colBarco][filBarco] = hundido;
         } else {
             cout  << endl<< "Más suerte para la próxima" << endl<< endl<< endl;
         }
