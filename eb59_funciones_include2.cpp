@@ -1,4 +1,4 @@
-// eb58_funciones_include2.cpp
+// eb59_funciones_include2.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la inclusión de librerías de mayo uso y el uso de algunas
