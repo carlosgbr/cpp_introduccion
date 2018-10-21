@@ -25,7 +25,7 @@ return 0;
 
 int esMenor(int a, int b)
 {
-//Devuelve el número mayor entero de 2 números dados como parámetros
+//Devuelve el número menor entero de 2 números dados como parámetros
 if (a <= b) {
     return a;
 } else {
