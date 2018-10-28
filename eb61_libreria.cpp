@@ -29,18 +29,18 @@ long decimalAOctal(long numeroDecimal);
 
 // conversionNumerica - Esta función nos permite un vistazo rápido al uso de las 
 // funciones contenidas en esta biblioteca.
-void conversionNumerica()
+int conversionNumerica();
 
 
 // Función de Prueba
-void conversionNumerica()
+int conversionNumerica()
 {
-    int numero;
+    int numero = 0;
 
     cout << "Introduce un numero entero: ";
     cin >> numero;
     if (numero < 0){
-        return main();
+        return 0;
     } else {
         cout << "Binario: " <<  decimalABinario(numero) << endl;
         cout << "Hexadecimal: " <<  decimalAHexadecimal(numero) << endl;        
