@@ -54,6 +54,7 @@ int conversionNumerica()
 // remainder -- Devuelve el remanente de punto flotante de numerador/denominador 
 // (redondeado al más cercano):
 // remainder = numer - rquot * denom 
+// Adaptado de https://stackoverflow.com/questions/25158255/decimal-to-binary-conversion-c
 // En donde, rquot es el resultado de: numerador/denominador, redondeado hacia
 // el valor integral más cercano (con casos a a punto medio redondeados hacia el
 // número par).
@@ -73,6 +74,7 @@ long decimalABinario(long numeroDecimal)
     return total;
 }
 
+// Adaptado de https://stackoverflow.com/questions/29759404/decimal-to-hexadecimal-conversion-code-in-c
 string decimalAHexadecimal(long numeroDecimal)
 {
     string s = "";
@@ -108,7 +110,7 @@ string decimalAHexadecimal(long numeroDecimal)
        return s;
 }   
 
-
+// Adaptado de https://www.programiz.com/cpp-programming/examples/octal-decimal-convert
 long decimalAOctal(long numeroDecimal)
 {
     long rem, 
