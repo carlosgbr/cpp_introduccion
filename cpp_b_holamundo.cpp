@@ -1,4 +1,4 @@
-// hola.cpp
+// cpp_01_holamundo.cpp
 // Primer programa  para ilustrar un programa escrito en C++
 // Despliega una cadena de texto en pantalla
 // Por http://about.me/carlosgbr
