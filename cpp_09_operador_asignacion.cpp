@@ -22,7 +22,7 @@ int main()
    cout << "a = " << a << " y b = " << b << endl;
    cout << "letra = " << letra << " respuesta = " << respuesta << endl;
    
-   respuesta = b;   //Equivalete a false (o)
+   respuesta = b;   //Equivalente a false (o)
    cout << "Asignación de una variable a otra variable = " << respuesta << endl; 
    
    return 0;
