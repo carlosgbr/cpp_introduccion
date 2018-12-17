@@ -1,12 +1,10 @@
 /******************************************************************************
-
 // operadoreslogicos2.cpp
 // Este programa muestra la evauación de 2 números con operadores lógicos
 // AND Y OR
 // 2017, Por http://about.me/carlosgbr
 // Versión 1
 // Compilado en https://www.onlinegdb.com/online_c++_compiler
-
 *******************************************************************************/
 
 #include <iostream>
