@@ -1,5 +1,5 @@
-// operador_asignacion.cpp
-// Este programa muestra el uso del operador de asignación
+// Precendecia3.cpp
+// Se ilustran más ejemplos de precedencia de signos lógicos y aritméticos.
 // 2017, Por http://about.me/carlosgbr
 // Versión 1
 // Compilado en https://www.tutorialspoint.com/compile_cpp_online.php
