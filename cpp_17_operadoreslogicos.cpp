@@ -1,11 +1,9 @@
 /******************************************************************************
-
 // operadoreslogicos.cpp
 // Este programa muestra la evauación de 2 números con operadores lógicos
 // 2017, Por http://about.me/carlosgbr
 // Versión 1
 // Compilado en https://www.onlinegdb.com/online_c++_compiler
-
 *******************************************************************************/
 
 #include <iostream>
@@ -33,7 +31,6 @@ int main()
     cout << numero1 << " == "  << numero2  << " = "  << (numero1 == numero2) << "\n";    
     cout << numero1 << " != "  << numero2  << " = "  << (numero1 != numero2) << "\n";
     cout << "not (" << numero1 << " != " << numero2 << ") = " << not (numero1 != numero2) << "\n";
-    
     
     return 0;
 }
