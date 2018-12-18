@@ -1,4 +1,4 @@
-// eb37_for02.cpp
+// cpp_38_for02.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustran más usos del ciclo for en C++
