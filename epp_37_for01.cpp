@@ -1,4 +1,4 @@
-// eb36_for01.cpp
+// epp_37_for01.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustran 3 sos básicos del ciclo for
