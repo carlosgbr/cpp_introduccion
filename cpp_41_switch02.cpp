@@ -1,4 +1,4 @@
-// eb40_switch02.cpp
+// cpp_41_switch02.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la estructura switch y el uso de la sentencia break para salir
