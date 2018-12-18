@@ -1,4 +1,4 @@
-// eb34_incremento4.cpp
+// cpp_36_incremento4.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Este programa presenta el cuadrado de los números del 1 al 10
