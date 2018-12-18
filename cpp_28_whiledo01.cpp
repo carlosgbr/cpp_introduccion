@@ -1,4 +1,4 @@
-// eb28_whiledo01.cpp
+// cpp_28_whiledo01.cpp
 // Uso de while do
 // Se ilustra un uso del ciclo while - do con  un menú de ejemplo, el ciclo se
 // ejecuta mientras el usuario no presione el número 3, además se ilustra el 
