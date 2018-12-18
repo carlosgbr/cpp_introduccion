@@ -1,4 +1,4 @@
-// eb39_switch01.cpp
+// cpp_40_switch01.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la estructura switch
