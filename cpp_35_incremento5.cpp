@@ -1,4 +1,4 @@
-// cpp_37_incremento5.cpp
+// cpp_35_incremento5.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra cómo se evalúa ++i, i++, --i, i--
