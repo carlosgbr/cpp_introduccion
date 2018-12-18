@@ -1,4 +1,4 @@
-// cpp_38_OperadoresCompuestos1.cpp
+// cpp_36_OperadoresCompuestos1.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Este programa presenta el uso de los operadores de asignación compuesta
