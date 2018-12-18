@@ -1,4 +1,4 @@
-// eb32_decremento1.cpp
+// cpp_35_decremento1.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se utiliza un contador para contar las palabras introducidas
