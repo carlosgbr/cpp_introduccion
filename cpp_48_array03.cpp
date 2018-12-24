@@ -1,4 +1,4 @@
-// eb47_array03.cpp
+// cpp_48_array03.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el uso de Arreglos Unidimensionales o Vectores
