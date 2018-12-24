@@ -33,7 +33,7 @@ int main()
     }
     
     cout << "Ahora mostramos el promedio de los cuadrados del 1 al " << TamArray << endl;
-    
+
     for (int i = 1; i <= TamArray; ++i) 
     {
         suma += i*i;
