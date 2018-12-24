@@ -1,4 +1,4 @@
-// eb56_funciones3.cpp
+// cpp_58__funciones3.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el uso de funciones con varios parámetros y la llamada de funciones
