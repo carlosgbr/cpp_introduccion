@@ -1,4 +1,4 @@
-// eb50_punteros1.cpp
+// cpp_51_punteros1.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el acceso a la dirección que ocupan las varibles en memoria.
