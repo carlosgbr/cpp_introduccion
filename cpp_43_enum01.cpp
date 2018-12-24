@@ -1,4 +1,4 @@
-// eb42_enum01.cpp
+// cpp_43_enum01.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la decalaración de tipos enumerados
