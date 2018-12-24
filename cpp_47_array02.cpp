@@ -1,4 +1,4 @@
-// eb46_array02.cpp
+// cpp_47_array02.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la inicialización y lectura de arreglos utilizando ciclos for
