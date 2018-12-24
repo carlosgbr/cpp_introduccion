@@ -1,4 +1,4 @@
-// eb52_punteros3.cpp
+// cpp_55_punteros4.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la manipulación de variables con punteros.
