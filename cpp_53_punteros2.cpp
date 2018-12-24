@@ -1,4 +1,4 @@
-// eb53_punteros4.cpp
+// cpp_53_punteros2.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la declaración de punteros en la misma línea
