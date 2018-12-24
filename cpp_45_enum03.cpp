@@ -1,4 +1,4 @@
-// eb43_enum03.cpp
+// cpp_45_enum03.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la simplificación que ofrece el uso de enum en los programas
