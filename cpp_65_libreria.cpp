@@ -1,4 +1,4 @@
-// eb62_libreria.cpp
+// cpp_65_libreria.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Ejemplo para llamar bibliotecas definidas por el usuario.
