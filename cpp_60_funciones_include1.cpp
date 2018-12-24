@@ -1,4 +1,4 @@
-// eb58_funciones_include1.cpp
+// cpp_60_funciones_include1.cpp 
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la inclusión de librerías estándar, utilizamos string como ejemplo
