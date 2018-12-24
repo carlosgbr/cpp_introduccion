@@ -1,4 +1,4 @@
-// eb51_punteros2.cpp
+// cpp_54_punteros3.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el uso y definición de punteros en C++.
