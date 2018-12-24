@@ -1,4 +1,4 @@
-// eb60_funciones_proto.cpp
+// cpp_62_funciones_proto.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se define un par de funciones que en el siguiente ejemplo 
