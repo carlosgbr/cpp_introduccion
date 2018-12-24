@@ -1,4 +1,4 @@
-// eb45_array01.cpp
+// cpp_46_array01.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra la declaración de arrays y la asignaciòn y recuperación de 
