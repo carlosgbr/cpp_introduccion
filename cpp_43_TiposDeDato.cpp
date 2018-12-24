@@ -1,4 +1,4 @@
-// eb38_for03.cpp
+// cpp_43_TiposDeDato.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustran ciclos for anidados
@@ -12,17 +12,7 @@ using namespace std;
 
 int main()
 {
-int i, j;
 
-for (i = 0; i <= 10; i++)
-{
-    for (j = 0; j <= i; j++)
-    {
-        cout << "*";
-    }
-    
-    cout << "\n";
-}
 
     return 0;
 }
