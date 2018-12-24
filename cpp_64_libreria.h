@@ -1,4 +1,4 @@
-// eb61_libreria.h
+// cpp_64_libreria.h
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se definen funciones de diversas conversiones con el fin de ejemplificar leguaje-c-introduccion
