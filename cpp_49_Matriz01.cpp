@@ -1,4 +1,4 @@
-// eb48_Matriz01.cpp
+// cpp_49_Matriz01.cpp
 // Este programa forma parte del tutorial de introducción al lenguaje C++
 // http://ehack.info/leguaje-c-introduccion/
 // Se ilustra el uso de Arreglos Bidimensionales o Matrices
