@@ -1,4 +1,4 @@
-// main_return.cpp
+// cpp_68_main_return.cpp
 // Uso de parámetros en main como forma de recepción de datos
 // para ilustrar diversas condiciones de salida de return
 // El programa calcula el índice de masa corporal 
