@@ -1,4 +1,4 @@
-// cpp_74_aleatorio_semilla.cpp
+// cpp_75_aleatorio_semilla.cpp
 // Se ilustra el uso de la semilla srand y la generación de "veraderos"
 // números aleatorios
 // 2019, Por http://about.me/carlosgbr
