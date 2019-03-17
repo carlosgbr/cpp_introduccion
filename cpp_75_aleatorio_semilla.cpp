@@ -17,9 +17,12 @@ int main()
     int valor = 0;
     srand(time(NULL));
     
+    // Simulamos calificaciones en el rango de 5 a 10;
     for (int i=1; i<=20; i++) {
-        valor = rand()%100;
-        cout << "Número aleatorio " << i << ": " << valor << endl;
+        valor = 5 + rand()%(11-5);
+        
+        cout << "Calificación Simulada" << i << ": " << valor << "\t\t\t\t";
+        if (i%2 == 0) cout << endl;
     }    
     
     return 0;
