@@ -1,6 +1,6 @@
-// cpp_75_adivinanumero.cpp
-// Se ilustra el uso de la semilla srand y la generación de "veraderos"
-// números aleatorios
+// cpp_76_adivinanumero.cpp
+// Se implementa un sencillo juego de "Adivina el número, el usuario tiene 2
+// oportunidades en un rango de 1 a 10
 // 2019, Por http://about.me/carlosgbr
 // Versión 1
 // Revisa todo el código del tutoral en: https://github.com/carlosgbr/
