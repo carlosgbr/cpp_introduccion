@@ -1,4 +1,4 @@
-// cpp_73_pseudoaleatorio_semilla.cpp
+// cpp_74_pseudoaleatorio_semilla.cpp
 // Se ilustra el uso de la semilla  srand al utilizar rand() 
 // para generar números aleatorios
 // 2019, Por http://about.me/carlosgbr
