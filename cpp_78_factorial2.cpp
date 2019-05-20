@@ -9,7 +9,7 @@
 
 using namespace std;
 
-long long  factorial (int n, int r) {
+long long  factorial (long long n, long long r) {
       if (n == 0) {
           return r;
       }
@@ -20,7 +20,7 @@ long long  factorial (int n, int r) {
  
  int main()
  {
-    int n; 
+    long long n; 
     cin >> n; 
     cout<< "Factorial de  "<< n <<" es " << factorial(n,1) << endl;
     return 0;
