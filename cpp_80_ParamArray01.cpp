@@ -28,7 +28,7 @@ int main()
     return 0;
 }
 
-
+//Despliega las opciones que se reciben en el Arreglo
 int MostrarArray(string OpcionMenu[], int NumOpciones)
 {
  
